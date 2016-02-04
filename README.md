@@ -51,6 +51,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 - [Reporting](#reporting)
 - [Sales Performance Optimization](#sales-performance-optimization)
 - [Security](#security)
+- [Social](#social)
 - [System Administration](#system-administration)
 - [Task Management](#task-management)
 - [Telephony Integration](#telephony-integration)
@@ -61,6 +62,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Account Management
 * [Account Org Chart - visualize account hierarchies](https://www.sugaroutfitters.com/addons/loaded-basic-account-organization-chart) on SugarOutfitters.com 
+* [Accounts Global View - complete account view](https://www.sugaroutfitters.com/addons/accounts-global-view) on SugarOutfitters.com 
 * [AlineaSol Publish Home Page](https://www.alineasol.com/en/sugarapps/homepage) - AlineaSol Publish Home Page allows you to create a multi-tab dashboards as your home-page. It supports role management so that different dashboards can be created for each role.
 * [Business Accounts & Partners - keep your vendors separate](https://www.sugaroutfitters.com/addons/business-accounts-and-partners) on SugarOutfitters.com 
 * [InsideView for Sales] (https://github.com/insideviewdev/sugarcrm) - InsideView Infuses SugarCRM with CRM Intelligence™ - Be Relevant. Sell Smarter. Grow Faster.
@@ -121,6 +123,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Kanban view for Opportunities module](http://www.youaddon.com/portfolio/detail/30/kanban-view-for-opportunities-module) on YouAddOn.com 
 * [Kanban View - Visualize and manage your "work in progress" by dragging and dropping your records.](https://www.sugaroutfitters.com/addons/kanban-view) on SugarOutfitters.com. Works for any module and is great for sales pipelines, leads pipeline, account pipeline, support team boards, project management, and more.
 * [QuickEditS - spreadsheet like editing](https://www.sugaroutfitters.com/addons/quickedits) on SugarOutfitters.com
+* [Dynamic Login Screen - personalized login page](https://www.sugaroutfitters.com/addons/sugarcrm-dynamic-login-screen) on SugarOutfitters.com
 
 
 ## Document Creation & Management
@@ -180,6 +183,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Join.Me - bringing Join.Me and SugarCRM together](https://www.sugaroutfitters.com/addons/joinme-meeting-integration) on SugarOutfitters.com
 * [Marketo Connector - automatic lead conversion & more](https://www.sugaroutfitters.com/addons/marketo-connector) on SugarOutfitters.com
 * [Open Exchange Rates library](http://github.com/jcsmorais/open-exchange-rates-lib-for-sugarcrm) - Package built to ease the pain of integrating the Open Exchange Rates library, a PHP abstraction for the services provided by Open Exchange Rates: a real-time exchange rates API for developers, in SugarCRM projects.
+* [Social2Sugar - LinkedIn Extension](https://www.sugaroutfitters.com/addons/linkedin-connector-for-sugarcrm-and-suitecrm) on SugarOutfitters.com 
 * [SugarChimp - bringing MailChimp and SugarCRM together](https://www.sugaroutfitters.com/addons/SugarChimp) on SugarOutfitters.com
 * [SugarCRM RubyGem](https://github.com/chicks/sugarcrm) - A ruby based REST Client for SugarCRM.
 * [Yathit InboxCRM: SugarCRM for Gmail](https://www.sugaroutfitters.com/addons/yathit-crmininbox-sugarcrm-for-gmail) on SugarOutfitters.com. Chrome extension to View/Create/Edit SugarCRM records, use  template in Gmail, track email and enhance with social media information.
@@ -202,13 +206,14 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## List Management
 * [Quick2List - self maintaining target lists](https://www.sugaroutfitters.com/addons/quick2list-sugarcrm-dynamic-target-list) on SugarOutfitters.com 
-* [Advanced Marketing Lists](https://www.sugaroutfitters.com/addons/advanced-marketing-lists) on SugarOutfitters.com Advanced Marketing Lists helps organizations to meet the needs of creating custom Target Lists and keep them updated regularly with automated tasks.
+* [Advanced Marketing Lists](https://www.sugaroutfitters.com/addons/advanced-marketing-lists) on SugarOutfitters.com. Advanced Marketing Lists helps organizations to meet the needs of creating custom Target Lists and keep them updated regularly with automated tasks.
 
 ## Migration
 
 ## Mobile
 * [QuickCRM Basic](https://github.com/QuickCRM/QuickCRM-Basic/releases) on GitHub.
 * [QuickCRM Full](http://www.quickcrm.fr/mobile) on www.quickcrm.fr/mobile (Compare Basic and Full editions : http://www.quickcrm.fr/mobile/en/content/11-quickcrm-editions-comparison).
+* [QuickCRM Mobile App for SugarCRM](https://www.sugaroutfitters.com/addons/quickcrm) on SugarOutfitters.com
 * [Jet Mobile Lite](http://letrium.com/jetmobile-lite/) on Letrium.com. 
 * [Jet Mobile Pro](http://letrium.com/products/jet-mobile/) on Letrium.com. Mobile Browser Application for SugarCRM (Mobile and Tablet devices). Jet Mobile lets your mobile users view, create, and modify your existing data in SugarCRM by using a mobile device with a Web browser.
 
@@ -217,7 +222,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [SugarTilkee - bringing Tilkee and SugarCRM together](https://github.com/timtilkee/tilkee-sugarcrm) - Tilkee is a simple SAAS tool used by sales teams to raise their closing rate, by tracking business proposal and forecast sales.
 * [Oportunity Org Chart - quickly identify key stackholders](https://www.sugaroutfitters.com/addons/loaded-advanced-opportunity-organization-chart) on SugarOutfitters.com 
 * [OportunitiesAlerts - opportunities sent to your inbox](https://www.sugaroutfitters.com/addons/opportunitiesalerts) on SugarOutfitters.com 
-* [Kanban View - Mange your sales pipeline](https://www.sugaroutfitters.com/addons/kanban-view) on SugarOutfitters.com. 
+* [Kanban View - Mange your sales pipeline](https://www.sugaroutfitters.com/addons/kanban-view) on SugarOutfitters.com
 
 ## Order Management
 
@@ -239,6 +244,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Reporting
 * [ACTIVITY TRACKING REPORT ](http://www.techextension.com/crm-sugarcrm-suitecrm-report-user-activity-tracking.php) - SugarCRM / SuiteCRM User Activity tracking Report tracks crm user's activities of Lead, contact, Account, opportunity, project, case, task and Quote module from SugarCRM or SuitecRM ( CRM ).
 * [AlineaSol Reports](https://www.alineasol.com/en/sugarapps/reports) - AlineaSol Reports gives strong reporting capabilities to Sugar. It supports different graphical engines, table output, exports in different formats, scheduled reports, interactive graphics, etc.
+* [Analytic Reporting Tool - dynamic & interactive reports and charts](https://www.sugaroutfitters.com/addons/analytic-reporting) on SugarOutfitters.com 
 * [KReporter for SugarCRM CE - the widest used Reporting Solution](http://www.kreporter.org) on KReporter.org. 
 * [Reports for SugarCRM CE - ad-hoc and dashboard tools](https://www.sugaroutfitters.com/addons/reports-for-sugarcrm-ce) on SugarOutfitters.com 
 * [Reporting Plugin - wizard to create reports](https://www.sugaroutfitters.com/addons/reporting-plugin) on SugarOutfitters.com 
@@ -250,8 +256,12 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Address Lookup - get more accurate addresses](https://www.sugaroutfitters.com/addons/address-lookup) on SugarOutfitters.com 
 
 ## Security
-* [SecuritySuite - Teams for SugarCRM CE](https://www.sugaroutfitters.com/addons/securitysuite) on SugarOutfitters.com 
+* [Login Tracker - track how often users are logging in](https://www.sugaroutfitters.com/addons/suitecrm-sugarcrm-login-tracker) on SugarOutfitters.com 
 * [Permission Org Chart for SugarCRM](http://www.youaddon.com/portfolio/detail/29/permission-org-chart-for-sugar-crm) on YouAddOn.com
+* [SecuritySuite - Teams for SugarCRM CE](https://www.sugaroutfitters.com/addons/securitysuite) on SugarOutfitters.com 
+
+## Social
+* [Social2Sugar - LinkedIn Extension](https://www.sugaroutfitters.com/addons/linkedin-connector-for-sugarcrm-and-suitecrm) on SugarOutfitters.com 
 
 ## System Administration
 * [Kickoff - run any scheduled/queued job at any time](https://www.sugaroutfitters.com/addons/kickoff-manual-sugarcrm-scheduler-tool) on SugarOutfitters.com 
@@ -280,11 +290,13 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Quick2SMS SMS Messaging - outbound marketing via SMS](https://www.sugaroutfitters.com/addons/quick2sms-sugarcrm-fibrecrm) on SugarOutfitters.com 
 
 ## Theme
+* [Field Customizer - change the look of any input field](https://www.sugaroutfitters.com/addons/fieldcustomizer) on SugarOutfitters.com 
 * [Google Style Theme for SugarCRM CE](https://www.sugaroutfitters.com/addons/google-style-sugartheme) on SugarOutfitters.com
 * [Blue Theme for SugarCRM CE](http://www.youaddon.com/portfolio/detail/3/YouAddOn-Sugar-CRM-Blue-Theme-for-CE) on YouAddOn.com.
 * [Metro Theme for SugarCRM CE](http://www.youaddon.com/portfolio/detail/13/Sugar-CRM-Metro-Theme-Theme-for-CE) on YouAddOn.com.
 * [Salesforce Theme for SugarCRM CE](http://www.youaddon.com/portfolio/detail/6/Sugar-CRM-Salesforce-Theme-for-CE) on YouAddOn.com. 
 * [Caro Theme for SugarCRM CE](http://www.youaddon.com/portfolio/detail/28/the-new-sugar-crm-caro-theme-for-ce) on YouAddOn.com.
+* [Dynamic Login Screen - personalized login page](https://www.sugaroutfitters.com/addons/sugarcrm-dynamic-login-screen) on SugarOutfitters.com
 
 ## Training
 
