@@ -248,12 +248,17 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [KReporter for SugarCRM CE - the widest used Reporting Solution](http://www.kreporter.org) on KReporter.org. 
 * [Reports for SugarCRM CE - ad-hoc and dashboard tools](https://www.sugaroutfitters.com/addons/reports-for-sugarcrm-ce) on SugarOutfitters.com 
 * [Reporting Plugin - wizard to create reports](https://www.sugaroutfitters.com/addons/reporting-plugin) on SugarOutfitters.com 
+* [Sales Quotas - define and report on sales quotas](https://www.sugaroutfitters.com/addons/sales-quotas) on SugarOutfitters.com 
 * [User Activities Module](https://github.com/UTAlan/Sugar-User-Activity-Module) - Installs a custom module in SugarCRM that allows you to view all Activities in a single List View.
+* [User Activity Analysis - know exactly what your employees are doing in SugarCRM](https://www.sugaroutfitters.com/addons/user-activity-analysis) on SugarOutfitters.com 
 
 ## Sales Performance Optimization
 * [AlineaSol Sales](https://www.alineasol.com/en/sugarapps/sales) - AlineaSol Sales provides dashlet enhancements for date management. Similar date filtering as in AlineaSol reports (only one filter supported here though). Supports natural and fiscal years.
 * [SugarTilkee - bringing Tilkee and SugarCRM together](https://github.com/timtilkee/tilkee-sugarcrm) - Tilkee is a simple SAAS tool used by sales teams to raise their closing rate, by tracking business proposal and forecast sales.
 * [Address Lookup - get more accurate addresses](https://www.sugaroutfitters.com/addons/address-lookup) on SugarOutfitters.com 
+* [Key Executive Data - database of millions of business contacts](https://www.sugaroutfitters.com/addons/keyexecdata) on SugarOutfitters.com 
+* [Sales Quotas - define and report on sales quotas](https://www.sugaroutfitters.com/addons/sales-quotas) on SugarOutfitters.com 
+* [Social2Sugar - LinkedIn Extension](https://www.sugaroutfitters.com/addons/linkedin-connector-for-sugarcrm-and-suitecrm) on SugarOutfitters.com 
 
 ## Security
 * [Login Tracker - track how often users are logging in](https://www.sugaroutfitters.com/addons/suitecrm-sugarcrm-login-tracker) on SugarOutfitters.com 
