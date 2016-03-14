@@ -52,6 +52,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 - [Sales Performance Optimization](#sales-performance-optimization)
 - [Security](#security)
 - [Social](#social)
+- [Survey Tools](#survey-tools)
 - [System Administration](#system-administration)
 - [Task Management](#task-management)
 - [Telephony Integration](#telephony-integration)
@@ -267,6 +268,9 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Social
 * [Social2Sugar - LinkedIn Extension](https://www.sugaroutfitters.com/addons/linkedin-connector-for-sugarcrm-and-suitecrm) on SugarOutfitters.com 
+
+## Survey Tools
+* [SugarCRM Survey Rocket - get timely feedback from your customers](https://www.sugaroutfitters.com/addons/sugarcrm-customer-survey) on SugarOutfitters.com 
 
 ## System Administration
 * [Kickoff - run any scheduled/queued job at any time](https://www.sugaroutfitters.com/addons/kickoff-manual-sugarcrm-scheduler-tool) on SugarOutfitters.com 
