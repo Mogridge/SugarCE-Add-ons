@@ -169,6 +169,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [logiZip - Windows tool for module browsing and manifest deployment] (https://github.com/infospectrum/logiZip) - Deploy Logic Hooks and Custom Scheduler Jobs, plus Custom Directory Entries and Custom Fields via the Module Loader. Automates the manifest.php file content creation and generate a zip package for uploading.
 
 ## Integration
+* [SugarCRM Integration with Outlook / Office 365 for Mac and Mobile Users](http://outlook-integration.com/office365.aspx)
 * [Implicit FrontEnd - Extensive Outlook integration solution. Do all your CRM work without leaving Outlook.](http://outlook-integration.com)
 * [Sugar Exchange Sync: Contacts by ISFGroup.cz](http://www.isfgroup.cz/en/sugarcrm-modules/sugar-exchange-contacts) - Synchronizing contacts between SugarCRM and Microsoft Exchange.
 * [Sugar Exchange Sync: Meetings by ISFGroup.cz](http://www.isfgroup.cz/en/sugarcrm-modules/sugar-exchange-meetings) - Synchronizing meetings between SugarCRM and Microsoft Exchange.
