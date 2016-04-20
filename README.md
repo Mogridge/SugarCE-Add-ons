@@ -237,6 +237,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Project Management
 * [AlineaSol Project Management](https://www.alineasol.com/en/sugarapps/project) - AlineaSol Project Management offer a GUI to create GANTTs and manage projects. Can be combined with AlineaSol Reports and WFM for sophisticated applications.
+* [Timesheets Professional - track time against CRM activities, billing clients, and measuring productivity.](https://www.sugaroutfitters.com/addons/sugarcrm-timesheets-pro) on SugarOutfitters.com
 
 ## Quotes and Products
 * [OpenQuotesAndContracts - quotes/contracts/products/product catalog for SugarCE](https://github.com/andriusr/OpenQuotesAndContracts) on GitHub.com.
