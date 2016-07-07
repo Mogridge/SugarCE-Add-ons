@@ -178,7 +178,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Tally Integration - create ledgers, sales orders, and more](https://www.sugaroutfitters.com/addons/sugarcrm-tally-integration) on SugarOutfitters.com
 * [ 1 - SugarCRM SMS Integration ] ( http://www.techextension.com/sugarcrm-suitecrm-sms-custom-module-integration.php ) This SugarCRM SMS Add-on provides feaures like send sms from crm and sms history in SugarCRM.
 * [ 1 - SugarCRM Tally Integration ] ( http://www.techextension.com/sugarcrm-suitecrm-tally-erp-custom-module-integration.php ) This SugarCRM Tally closing balance, Ledger, Bill by bill details , Account information and stock details in SuiteCRM.
-*  [ 1 - Click To Call SugarCRM Integration ] ( http://www.techextension.com/sugarcrm-click-to-call-integration.php ) This SugarCRM Module provides click to call or click to dail from SugarCRM.
+*  [ 1 - Click To Call SugarCRM Integration ] ( http://www.techextension.com/sugarcrm-click-to-call-integration.php ) This SugarCRM Module provides click to call or click to dial from SugarCRM.
 * [Currencies Exchange Rate Updater](http://github.com/jcsmorais/currencies-exchange-rate-updater) - SugarCRM package designed to ease the process of updating active currencies exchange rates with the help of external data sources.
 * [GmailSync - sync emails, calendars, contacts, and docs with Google](https://www.sugaroutfitters.com/addons/gmail-sync) on SugarOutfitters.com
 * [Google Contacts Synchronization](https://www.sugaroutfitters.com/addons/google-contacts-synchronization) on SugarOutfitters.com
