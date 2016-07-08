@@ -206,6 +206,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [SugarTilkee - bringing Tilkee and SugarCRM together](https://github.com/timtilkee/tilkee-sugarcrm) - Tilkee is a simple SAAS tool used by sales teams to raise their closing rate, by tracking business proposal and forecast sales.
 * [ParseMyResume module for SugarCRM - bringing Resume Parsing to SugarCRM ](https://github.com/ParseMyResume/Module-for-SugarCRM) - ParseMyResume gives you ease of handling resumes, automating storage and retrieval of resumes as leads. Complete details from resumes gets parsed into different fields like first name, last name, experience etc which makes a lot easier for you to find out the standout candidates.
 * [InsideView for Sales] (https://github.com/insideviewdev/sugarcrm) - InsideView Infuses SugarCRM with CRM Intelligence™ - Be Relevant. Sell Smarter. Grow Faster.
+* [WebToModule - Create lead forms for your landing pages](https://www.sugaroutfitters.com/addons/webtomodule) on SugarOutfitters.com 
 
 ## List Management
 * [Quick2List - self maintaining target lists](https://www.sugaroutfitters.com/addons/quick2list-sugarcrm-dynamic-target-list) on SugarOutfitters.com 
@@ -300,6 +301,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Monema Phone System Connector](http://monema.es/en/services-telephony-business/sugar-crm-centralita-telefonica.html) - integrates Monema Phone System with SugarCRM allowing you to anotate all calls, and click2call.
 * [SMS Add-on - send SMS right from Sugar](https://www.sugaroutfitters.com/addons/sms-addon) on SugarOutfitters.com 
 * [Quick2SMS SMS Messaging - outbound marketing via SMS](https://www.sugaroutfitters.com/addons/quick2sms-sugarcrm-fibrecrm) on SugarOutfitters.com 
+* [Avaya Integration - click-to-call, screen pops, call history, etc](https://www.sugaroutfitters.com/addons/avaya-integration) on SugarOutfitters.com 
 
 ## Theme
 * [Field Customizer - change the look of any input field](https://www.sugaroutfitters.com/addons/fieldcustomizer) on SugarOutfitters.com 
@@ -315,6 +317,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Web Self-Service
 * [Freshdesk Connector - support portal and more](https://www.sugaroutfitters.com/addons/freshdesk-sugar-connector) on SugarOutfitters.com
 * [WordPress Customer Portal - Accounts, Contacts, Leads, Opps and much, much more...](https://www.sugaroutfitters.com/addons/wordpress-customer-portal-pro) on SugarOutfitters.com 
+* [WebToModule - Create web forms for any module](https://www.sugaroutfitters.com/addons/webtomodule) on SugarOutfitters.com 
 
 ## Workflow
 * [Advanced Workflows](https://github.com/gcoop-libre/sugarcrm_advanced_workflows) This workflow engine is inspired by Sebastian Bergman "Design and Implementation of Workflow Engine" paper.
