@@ -250,6 +250,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [ACTIVITY TRACKING REPORT ](http://www.techextension.com/crm-sugarcrm-suitecrm-report-user-activity-tracking.php) - SugarCRM / SuiteCRM User Activity tracking Report tracks crm user's activities of Lead, contact, Account, opportunity, project, case, task and Quote module from SugarCRM or SuitecRM ( CRM ).
 * [AlineaSol Reports](https://www.alineasol.com/en/sugarapps/reports) - AlineaSol Reports gives strong reporting capabilities to Sugar. It supports different graphical engines, table output, exports in different formats, scheduled reports, interactive graphics, etc.
 * [Analytic Reporting Tool - dynamic & interactive reports and charts](https://www.sugaroutfitters.com/addons/analytic-reporting) on SugarOutfitters.com 
+* [Analytic Reporting Tool PRO - advanced reporting](https://www.sugaroutfitters.com/addons/analytic-pro) on SugarOutfitters.com 
 * [KReporter for SugarCRM CE - the widest used Reporting Solution](http://www.kreporter.org) on KReporter.org. 
 * [Reports for SugarCRM CE - ad-hoc and dashboard tools](https://www.sugaroutfitters.com/addons/reports-for-sugarcrm-ce) on SugarOutfitters.com 
 * [Reporting Plugin - wizard to create reports](https://www.sugaroutfitters.com/addons/reporting-plugin) on SugarOutfitters.com 
