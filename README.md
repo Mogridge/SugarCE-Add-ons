@@ -125,6 +125,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Kanban View - Visualize and manage your "work in progress" by dragging and dropping your records.](https://www.sugaroutfitters.com/addons/kanban-view) on SugarOutfitters.com. Works for any module and is great for sales pipelines, leads pipeline, account pipeline, support team boards, project management, and more.
 * [QuickEditS - spreadsheet like editing](https://www.sugaroutfitters.com/addons/quickedits) on SugarOutfitters.com
 * [Dynamic Login Screen - personalized login page](https://www.sugaroutfitters.com/addons/sugarcrm-dynamic-login-screen) on SugarOutfitters.com
+* [Gantt Project Module - the project manager's visual tool](https://www.sugaroutfitters.com/addons/ganttproject) on SugarOutfitters.com
 
 
 ## Document Creation & Management
@@ -239,6 +240,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Project Management
 * [AlineaSol Project Management](https://www.alineasol.com/en/sugarapps/project) - AlineaSol Project Management offer a GUI to create GANTTs and manage projects. Can be combined with AlineaSol Reports and WFM for sophisticated applications.
+* [Gantt Project Module - the project manager's visual tool](https://www.sugaroutfitters.com/addons/ganttproject) on SugarOutfitters.com
 * [Timesheets Professional - track time against CRM activities, billing clients, and measuring productivity.](https://www.sugaroutfitters.com/addons/sugarcrm-timesheets-pro) on SugarOutfitters.com
 
 ## Quotes and Products
@@ -293,6 +295,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Maintenance Mode Module - turn off access to SugarCRM temporarily while you upgrade your servers](https://www.sugaroutfitters.com/addons/maintenance-mode-module) on SugarOutfitters.com
 
 ## Task Management
+* [Gantt Project Module - the project manager's visual tool](https://www.sugaroutfitters.com/addons/ganttproject) on SugarOutfitters.com
 
 ## Telephony Integration
 * [Callinize](http://www.callinize.com/) SaaS service that connects over 100 phone systems with SugarCRM. Callinize provides Click-to-Dial, Call PopUp, Call Logs, Call Analytics, Natural Language Processor, Task Creation, and more. 
