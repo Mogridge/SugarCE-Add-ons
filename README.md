@@ -125,6 +125,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Kanban View - Visualize and manage your "work in progress" by dragging and dropping your records.](https://www.sugaroutfitters.com/addons/kanban-view) on SugarOutfitters.com. Works for any module and is great for sales pipelines, leads pipeline, account pipeline, support team boards, project management, and more.
 * [QuickEditS - spreadsheet like editing](https://www.sugaroutfitters.com/addons/quickedits) on SugarOutfitters.com
 * [Dynamic Login Screen - personalized login page](https://www.sugaroutfitters.com/addons/sugarcrm-dynamic-login-screen) on SugarOutfitters.com
+* [Gantt Project Module - the project manager's visual tool](https://www.sugaroutfitters.com/addons/ganttproject) on SugarOutfitters.com
 
 
 ## Document Creation & Management
@@ -207,6 +208,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [ParseMyResume module for SugarCRM - bringing Resume Parsing to SugarCRM ](https://github.com/ParseMyResume/Module-for-SugarCRM) - ParseMyResume gives you ease of handling resumes, automating storage and retrieval of resumes as leads. Complete details from resumes gets parsed into different fields like first name, last name, experience etc which makes a lot easier for you to find out the standout candidates.
 * [InsideView for Sales] (https://github.com/insideviewdev/sugarcrm) - InsideView Infuses SugarCRM with CRM Intelligence™ - Be Relevant. Sell Smarter. Grow Faster.
 * [WebToModule - Create lead forms for your landing pages](https://www.sugaroutfitters.com/addons/webtomodule) on SugarOutfitters.com 
+* [Scan Identical Leads - keep your data clean](https://www.sugaroutfitters.com/addons/scan-identical-leads) on SugarOutfitters.com
 
 ## List Management
 * [Quick2List - self maintaining target lists](https://www.sugaroutfitters.com/addons/quick2list-sugarcrm-dynamic-target-list) on SugarOutfitters.com 
@@ -239,6 +241,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Project Management
 * [AlineaSol Project Management](https://www.alineasol.com/en/sugarapps/project) - AlineaSol Project Management offer a GUI to create GANTTs and manage projects. Can be combined with AlineaSol Reports and WFM for sophisticated applications.
+* [Gantt Project Module - the project manager's visual tool](https://www.sugaroutfitters.com/addons/ganttproject) on SugarOutfitters.com
 * [Timesheets Professional - track time against CRM activities, billing clients, and measuring productivity.](https://www.sugaroutfitters.com/addons/sugarcrm-timesheets-pro) on SugarOutfitters.com
 
 ## Quotes and Products
@@ -293,6 +296,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Maintenance Mode Module - turn off access to SugarCRM temporarily while you upgrade your servers](https://www.sugaroutfitters.com/addons/maintenance-mode-module) on SugarOutfitters.com
 
 ## Task Management
+* [Gantt Project Module - the project manager's visual tool](https://www.sugaroutfitters.com/addons/ganttproject) on SugarOutfitters.com
 
 ## Telephony Integration
 * [Callinize](http://www.callinize.com/) SaaS service that connects over 100 phone systems with SugarCRM. Callinize provides Click-to-Dial, Call PopUp, Call Logs, Call Analytics, Natural Language Processor, Task Creation, and more. 
