@@ -208,6 +208,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [ParseMyResume module for SugarCRM - bringing Resume Parsing to SugarCRM ](https://github.com/ParseMyResume/Module-for-SugarCRM) - ParseMyResume gives you ease of handling resumes, automating storage and retrieval of resumes as leads. Complete details from resumes gets parsed into different fields like first name, last name, experience etc which makes a lot easier for you to find out the standout candidates.
 * [InsideView for Sales] (https://github.com/insideviewdev/sugarcrm) - InsideView Infuses SugarCRM with CRM Intelligence™ - Be Relevant. Sell Smarter. Grow Faster.
 * [WebToModule - Create lead forms for your landing pages](https://www.sugaroutfitters.com/addons/webtomodule) on SugarOutfitters.com 
+* [Scan Identical Leads - keep your data clean](https://www.sugaroutfitters.com/addons/scan-identical-leads) on SugarOutfitters.com
 
 ## List Management
 * [Quick2List - self maintaining target lists](https://www.sugaroutfitters.com/addons/quick2list-sugarcrm-dynamic-target-list) on SugarOutfitters.com 
