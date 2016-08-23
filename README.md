@@ -191,6 +191,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [SugarCRM RubyGem](https://github.com/chicks/sugarcrm) - A ruby based REST Client for SugarCRM.
 * [Yathit InboxCRM: SugarCRM for Gmail](https://www.sugaroutfitters.com/addons/yathit-crmininbox-sugarcrm-for-gmail) on SugarOutfitters.com. Chrome extension to View/Create/Edit SugarCRM records, use  template in Gmail, track email and enhance with social media information.
 * [Google Calendar Integration - meetings and calls](https://www.sugaroutfitters.com/addons/google-calendar-integration-for-sugarcrm-ce) on SugarOutfitters.com
+* [Groupon - the popular deals and coupons platform](https://www.sugaroutfitters.com/addons/groupon-orders-to-crm) on SugarOutfitters.com
 
 ## Knowledge Management
 
@@ -276,6 +277,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Social
 * [Social2Sugar - LinkedIn Extension](https://www.sugaroutfitters.com/addons/linkedin-connector-for-sugarcrm-and-suitecrm) on SugarOutfitters.com 
+* [Groupon - the popular deals and coupons platform](https://www.sugaroutfitters.com/addons/groupon-orders-to-crm) on SugarOutfitters.com
 
 ## Survey Tools
 * [SugarCRM Survey Rocket - get timely feedback from your customers](https://www.sugaroutfitters.com/addons/sugarcrm-customer-survey) on SugarOutfitters.com 
