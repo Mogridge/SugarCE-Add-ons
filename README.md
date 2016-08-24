@@ -146,6 +146,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Electronic Signatures
 * [Drawing & Signature Field - sign receipts or draw up a mockup](https://www.sugaroutfitters.com/addons/drawing-field-module) on SugarOutfitters.com 
+* [AdobeSign (EchoSign) - efficiently manage the document signature process](https://www.sugaroutfitters.com/addons/sugarechosign) on SugarOutfitters.com 
 
 ## Email
 * [GrinMark Outlook 365 Plugin for SugarCRM - archive emails and 2-way contact sync](https://www.sugaroutfitters.com/addons/grinmark-outlook-365-addin-for-sugarcrm) on SugarOutfitters.com
