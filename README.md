@@ -153,6 +153,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [GmailSync - sync emails, calendars, contacts, and docs with Google](https://www.sugaroutfitters.com/addons/gmail-sync) on SugarOutfitters.com 
 * [Quick2Email Mass Email - mass send personalized emails](https://www.sugaroutfitters.com/addons/quick2email-sugarcrm-email-tool) on SugarOutfitters.com 
 * [Sugar Email Archiver by ISFGroup.cz](http://www.isfgroup.cz/en/sugarcrm-modules/isfgroup-email-archiver) - Automatic email archiving to Leads, Contacts and Accounts.
+* [Implicit FrontEnd - Bringing CRM to your Outlook inbox](https://www.sugaroutfitters.com/addons/implicit-frontend) on SugarOutfitters.com 
 
 ## Email Marketing
 * [SugarChimp - bringing MailChimp and SugarCRM together](https://www.sugaroutfitters.com/addons/SugarChimp) on SugarOutfitters.com 
