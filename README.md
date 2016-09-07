@@ -126,6 +126,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [QuickEditS - spreadsheet like editing](https://www.sugaroutfitters.com/addons/quickedits) on SugarOutfitters.com
 * [Dynamic Login Screen - personalized login page](https://www.sugaroutfitters.com/addons/sugarcrm-dynamic-login-screen) on SugarOutfitters.com
 * [Gantt Project Module - the project manager's visual tool](https://www.sugaroutfitters.com/addons/ganttproject) on SugarOutfitters.com
+* [Proximity Search - map records within a given radius](https://www.sugaroutfitters.com/addons/proximity-search-for-sugar) on SugarOutfitters.com
 
 
 ## Document Creation & Management
@@ -263,6 +264,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Sales Quotas - define and report on sales quotas](https://www.sugaroutfitters.com/addons/sales-quotas) on SugarOutfitters.com 
 * [User Activities Module](https://github.com/UTAlan/Sugar-User-Activity-Module) - Installs a custom module in SugarCRM that allows you to view all Activities in a single List View.
 * [User Activity Analysis - know exactly what your employees are doing in SugarCRM](https://www.sugaroutfitters.com/addons/user-activity-analysis) on SugarOutfitters.com 
+* [Proximity Search - map records within a given radius](https://www.sugaroutfitters.com/addons/proximity-search-for-sugar) on SugarOutfitters.com
 
 ## Sales Performance Optimization
 * [AlineaSol Sales](https://www.alineasol.com/en/sugarapps/sales) - AlineaSol Sales provides dashlet enhancements for date management. Similar date filtering as in AlineaSol reports (only one filter supported here though). Supports natural and fiscal years.
