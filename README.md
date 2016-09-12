@@ -127,6 +127,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Dynamic Login Screen - personalized login page](https://www.sugaroutfitters.com/addons/sugarcrm-dynamic-login-screen) on SugarOutfitters.com
 * [Gantt Project Module - the project manager's visual tool](https://www.sugaroutfitters.com/addons/ganttproject) on SugarOutfitters.com
 * [Proximity Search - map records within a given radius](https://www.sugaroutfitters.com/addons/proximity-search-for-sugar) on SugarOutfitters.com
+* [Calendar Map - see meetings and map routes](https://www.sugaroutfitters.com/addons/calendar-map) on SugarOutfitters.com
 
 
 ## Document Creation & Management
@@ -267,12 +268,14 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Proximity Search - map records within a given radius](https://www.sugaroutfitters.com/addons/proximity-search-for-sugar) on SugarOutfitters.com
 
 ## Sales Performance Optimization
-* [AlineaSol Sales](https://www.alineasol.com/en/sugarapps/sales) - AlineaSol Sales provides dashlet enhancements for date management. Similar date filtering as in AlineaSol reports (only one filter supported here though). Supports natural and fiscal years.
-* [SugarTilkee - bringing Tilkee and SugarCRM together](https://github.com/timtilkee/tilkee-sugarcrm) - Tilkee is a simple SAAS tool used by sales teams to raise their closing rate, by tracking business proposal and forecast sales.
 * [Address Lookup - get more accurate addresses](https://www.sugaroutfitters.com/addons/address-lookup) on SugarOutfitters.com 
+* [AlineaSol Sales](https://www.alineasol.com/en/sugarapps/sales) - AlineaSol Sales provides dashlet enhancements for date management. Similar date filtering as in AlineaSol reports (only one filter supported here though). Supports natural and fiscal years.
+* [Calendar Map - see meetings and map routes](https://www.sugaroutfitters.com/addons/calendar-map) on SugarOutfitters.com
 * [Key Executive Data - database of millions of business contacts](https://www.sugaroutfitters.com/addons/keyexecdata) on SugarOutfitters.com 
 * [Sales Quotas - define and report on sales quotas](https://www.sugaroutfitters.com/addons/sales-quotas) on SugarOutfitters.com 
 * [Social2Sugar - LinkedIn Extension](https://www.sugaroutfitters.com/addons/linkedin-connector-for-sugarcrm-and-suitecrm) on SugarOutfitters.com 
+* [SugarTilkee - bringing Tilkee and SugarCRM together](https://github.com/timtilkee/tilkee-sugarcrm) - Tilkee is a simple SAAS tool used by sales teams to raise their closing rate, by tracking business proposal and forecast sales.
+
 
 ## Security
 * [Login Tracker - track how often users are logging in](https://www.sugaroutfitters.com/addons/suitecrm-sugarcrm-login-tracker) on SugarOutfitters.com 
