@@ -190,6 +190,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Join.Me - bringing Join.Me and SugarCRM together](https://www.sugaroutfitters.com/addons/joinme-meeting-integration) on SugarOutfitters.com
 * [Marketo Connector - automatic lead conversion & more](https://www.sugaroutfitters.com/addons/marketo-connector) on SugarOutfitters.com
 * [Open Exchange Rates library](http://github.com/jcsmorais/open-exchange-rates-lib-for-sugarcrm) - Package built to ease the pain of integrating the Open Exchange Rates library, a PHP abstraction for the services provided by Open Exchange Rates: a real-time exchange rates API for developers, in SugarCRM projects.
+* [SendSMS - Communicate better and faster](https://www.sugaroutfitters.com/addons/sendsms) on SugarOutfitters.com 
 * [Social2Sugar - LinkedIn Extension](https://www.sugaroutfitters.com/addons/linkedin-connector-for-sugarcrm-and-suitecrm) on SugarOutfitters.com 
 * [SugarChimp - bringing MailChimp and SugarCRM together](https://www.sugaroutfitters.com/addons/SugarChimp) on SugarOutfitters.com
 * [SugarCRM RubyGem](https://github.com/chicks/sugarcrm) - A ruby based REST Client for SugarCRM.
@@ -313,6 +314,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Twilio - VOIP integration](https://www.sugaroutfitters.com/addons/twilio) on SugarOutfitters.com 
 * [All-In-One CTI - call pops & more. Works with most popular PBXs](https://www.sugaroutfitters.com/addons/allinone-cti) on SugarOutfitters.com
 * [Monema Phone System Connector](http://monema.es/en/services-telephony-business/sugar-crm-centralita-telefonica.html) - integrates Monema Phone System with SugarCRM allowing you to anotate all calls, and click2call.
+* [SendSMS - Communicate better and faster](https://www.sugaroutfitters.com/addons/sendsms) on SugarOutfitters.com 
 * [SMS Add-on - send SMS right from Sugar](https://www.sugaroutfitters.com/addons/sms-addon) on SugarOutfitters.com 
 * [Quick2SMS SMS Messaging - outbound marketing via SMS](https://www.sugaroutfitters.com/addons/quick2sms-sugarcrm-fibrecrm) on SugarOutfitters.com 
 * [Avaya Integration - click-to-call, screen pops, call history, etc](https://www.sugaroutfitters.com/addons/avaya-integration) on SugarOutfitters.com 
