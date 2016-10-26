@@ -128,6 +128,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Gantt Project Module - the project manager's visual tool](https://www.sugaroutfitters.com/addons/ganttproject) on SugarOutfitters.com
 * [Proximity Search - map records within a given radius](https://www.sugaroutfitters.com/addons/proximity-search-for-sugar) on SugarOutfitters.com
 * [Calendar Map - see meetings and map routes](https://www.sugaroutfitters.com/addons/calendar-map) on SugarOutfitters.com
+* [Gantt Chart Ninja - easily create and update project plans just like you do in Microsoft Project](https://www.sugaroutfitters.com/addons/gantt-chart-ninja) on SugarOutfitters.com
 
 
 ## Document Creation & Management
@@ -197,6 +198,8 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Yathit InboxCRM: SugarCRM for Gmail](https://www.sugaroutfitters.com/addons/yathit-crmininbox-sugarcrm-for-gmail) on SugarOutfitters.com. Chrome extension to View/Create/Edit SugarCRM records, use  template in Gmail, track email and enhance with social media information.
 * [Google Calendar Integration - meetings and calls](https://www.sugaroutfitters.com/addons/google-calendar-integration-for-sugarcrm-ce) on SugarOutfitters.com
 * [Groupon - the popular deals and coupons platform](https://www.sugaroutfitters.com/addons/groupon-orders-to-crm) on SugarOutfitters.com
+* [eBay - sync your eBay orders automatically](https://www.sugaroutfitters.com/addons/ebay-orders-to-sugarcrm-suitecrm) on SugarOutfitters.com
+
 
 ## Knowledge Management
 
@@ -247,6 +250,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Project Management
 * [AlineaSol Project Management](https://www.alineasol.com/en/sugarapps/project) - AlineaSol Project Management offer a GUI to create GANTTs and manage projects. Can be combined with AlineaSol Reports and WFM for sophisticated applications.
+* [Gantt Chart Ninja - easily create and update project plans just like you do in Microsoft Project](https://www.sugaroutfitters.com/addons/gantt-chart-ninja) on SugarOutfitters.com
 * [Gantt Project Module - the project manager's visual tool](https://www.sugaroutfitters.com/addons/ganttproject) on SugarOutfitters.com
 * [Timesheets Professional - track time against CRM activities, billing clients, and measuring productivity.](https://www.sugaroutfitters.com/addons/sugarcrm-timesheets-pro) on SugarOutfitters.com
 
@@ -306,6 +310,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Maintenance Mode Module - turn off access to SugarCRM temporarily while you upgrade your servers](https://www.sugaroutfitters.com/addons/maintenance-mode-module) on SugarOutfitters.com
 
 ## Task Management
+* [Gantt Chart Ninja - easily create and update project plans just like you do in Microsoft Project](https://www.sugaroutfitters.com/addons/gantt-chart-ninja) on SugarOutfitters.com
 * [Gantt Project Module - the project manager's visual tool](https://www.sugaroutfitters.com/addons/ganttproject) on SugarOutfitters.com
 
 ## Telephony Integration
