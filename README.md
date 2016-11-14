@@ -129,6 +129,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Proximity Search - map records within a given radius](https://www.sugaroutfitters.com/addons/proximity-search-for-sugar) on SugarOutfitters.com
 * [Calendar Map - see meetings and map routes](https://www.sugaroutfitters.com/addons/calendar-map) on SugarOutfitters.com
 * [Gantt Chart Ninja - easily create and update project plans just like you do in Microsoft Project](https://www.sugaroutfitters.com/addons/gantt-chart-ninja) on SugarOutfitters.com
+* [Dashboard Copy Manager - deploy dashboards to users, groups, or roles](https://www.sugaroutfitters.com/addons/dashboard-deployer) on SugarOutfitters.com
 
 
 ## Document Creation & Management
@@ -308,6 +309,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Audit Tasks - add the ability to audit the tasks module](https://www.sugaroutfitters.com/addons/audit-tasks) on SugarOutfitters.com
 * [SQL Query - query the db right from Sugar](https://www.sugaroutfitters.com/addons/SQLQuery) on SugarOutfitters.com
 * [Maintenance Mode Module - turn off access to SugarCRM temporarily while you upgrade your servers](https://www.sugaroutfitters.com/addons/maintenance-mode-module) on SugarOutfitters.com
+* [Dashboard Copy Manager - deploy dashboards to users, groups, or roles](https://www.sugaroutfitters.com/addons/dashboard-deployer) on SugarOutfitters.com
 
 ## Task Management
 * [Gantt Chart Ninja - easily create and update project plans just like you do in Microsoft Project](https://www.sugaroutfitters.com/addons/gantt-chart-ninja) on SugarOutfitters.com
