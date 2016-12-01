@@ -23,6 +23,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 - [Case Management](#case-management)
 - [CE Code and Zips](#ce-code-and-zips)
 - [Collaboration](#collaboration)
+- [Communication](#communication)
 - [Contact Management](#contact-management)
 - [Contract Management](#contract-management)
 - [Contributions](#contributions)
@@ -64,7 +65,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## Account Management
 * [Account Org Chart - visualize account hierarchies](https://www.sugaroutfitters.com/addons/loaded-basic-account-organization-chart) on SugarOutfitters.com 
 * [Accounts Global View - complete account view](https://www.sugaroutfitters.com/addons/accounts-global-view) on SugarOutfitters.com 
-* [AlineaSol Publish Home Page](https://www.alineasol.com/en/sugarapps/homepage) - AlineaSol Publish Home Page allows you to create a multi-tab dashboards as your home-page. It supports role management so that different dashboards can be created for each role.
+* [AlineaSol Publish Home Page](https://alineasolutions.com/index.php/downloads/alineasol-publish-home-page-community.html) - AlineaSol Publish Home Page enhances the homepage of SugarCRM CE, supporting mult-tab dashboards, and role specific home pages.
 * [Business Accounts & Partners - keep your vendors separate](https://www.sugaroutfitters.com/addons/business-accounts-and-partners) on SugarOutfitters.com 
 * [InsideView for Sales] (https://github.com/insideviewdev/sugarcrm) - InsideView Infuses SugarCRM with CRM Intelligence™ - Be Relevant. Sell Smarter. Grow Faster.
 * [BaseContactAdd - Faster data entry for accounts](https://www.sugaroutfitters.com/addons/basecontactadd) on SugarOutfitters.com
@@ -82,6 +83,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [SugarCAL - Real-time sync between SugarCE Calendar and Google](https://sourceforge.net/projects/sugarcal/) on Sourceforge.net.
 * [SynoCalendar - Make your calendar work like Gmail or Outlook](https://www.sugaroutfitters.com/addons/SynoCalendar) on SugarOutfitters.com
 * [Google Calendar Integration - meetings and calls](https://www.sugaroutfitters.com/addons/google-calendar-integration-for-sugarcrm-ce) on SugarOutfitters.com
+* [AlineaSol Calendar Events](https://alineasolutions.com/index.php/downloads/alineasol-calendar-events-community.html) - AlineaSol Calendar Events is a CRM extension that provides your CRM with a very flexible, action-programmable calendar.
 
 ## Campaign Management
 
@@ -97,7 +99,10 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Collabro - collaboration tools all within Sugar](https://www.sugaroutfitters.com/addons/collabro) on SugarOutfitters.com 
 * [Chitter - internal discussions on any record](https://www.sugaroutfitters.com/addons/chitter) on SugarOutfitters.com 
 * [Comment module - write comment and get alert on any record](http://www.youaddon.com/portfolio/detail/7/Comments-module-for-SugarCRM) on YouAddOn.com. 
- 
+
+## Communication
+* [AlineaSol Chat](https://alineasolutions.com/index.php/downloads/alineasol-chat-community.html) - AlineaSol Chat is a module that supports chats within the CRM. It allows for both  internal (CRM users) and external chats (initiated from company Portal). 
+
 ## Contact Management
 * [InsideView for Sales] (https://github.com/insideviewdev/sugarcrm) - InsideView Infuses SugarCRM with CRM Intelligence™ - Be Relevant. Sell Smarter. Grow Faster.
 
@@ -249,7 +254,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Customer Portal for SugarCRM CE](http://www.youaddon.com/portfolio/detail/31/customer-portal-for-sugarcrm-ce) on YouAddOn.com
 
 ## Project Management
-* [AlineaSol Project Management](https://www.alineasol.com/en/sugarapps/project) - AlineaSol Project Management offer a GUI to create GANTTs and manage projects. Can be combined with AlineaSol Reports and WFM for sophisticated applications.
+* [AlineaSol Project Management](https://alineasolutions.com/index.php/products/alineasol-project-management-gantt-enterprise.html) - AlineaSol Project Management offer a GUI to create GANTTs and manage projects. Can be combined with AlineaSol Reports and WFM for sophisticated applications.
 * [Gantt Chart Ninja - easily create and update project plans just like you do in Microsoft Project](https://www.sugaroutfitters.com/addons/gantt-chart-ninja) on SugarOutfitters.com
 * [Gantt Project Module - the project manager's visual tool](https://www.sugaroutfitters.com/addons/ganttproject) on SugarOutfitters.com
 * [Timesheets Professional - track time against CRM activities, billing clients, and measuring productivity.](https://www.sugaroutfitters.com/addons/sugarcrm-timesheets-pro) on SugarOutfitters.com
@@ -261,7 +266,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Reporting
 * [ACTIVITY TRACKING REPORT ](http://www.techextension.com/crm-sugarcrm-suitecrm-report-user-activity-tracking.php) - SugarCRM / SuiteCRM User Activity tracking Report tracks crm user's activities of Lead, contact, Account, opportunity, project, case, task and Quote module from SugarCRM or SuitecRM ( CRM ).
-* [AlineaSol Reports](https://www.alineasol.com/en/sugarapps/reports) - AlineaSol Reports gives strong reporting capabilities to Sugar. It supports different graphical engines, table output, exports in different formats, scheduled reports, interactive graphics, etc.
+* [AlineaSol Reports](https://alineasolutions.com/index.php/products/alineasol-reports-enterprise.html) - AlineaSol Reports gives strong reporting capabilities to Sugar. It supports different graphical engines, table output, exports in different formats, scheduled reports, interactive graphics, etc.
 * [Analytic Reporting Tool - dynamic & interactive reports and charts](https://www.sugaroutfitters.com/addons/analytic-reporting) on SugarOutfitters.com 
 * [Analytic Reporting Tool PRO - advanced reporting](https://www.sugaroutfitters.com/addons/analytic-pro) on SugarOutfitters.com 
 * [KReporter for SugarCRM CE - the widest used Reporting Solution](http://www.kreporter.org) on KReporter.org. 
@@ -274,13 +279,11 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Sales Performance Optimization
 * [Address Lookup - get more accurate addresses](https://www.sugaroutfitters.com/addons/address-lookup) on SugarOutfitters.com 
-* [AlineaSol Sales](https://www.alineasol.com/en/sugarapps/sales) - AlineaSol Sales provides dashlet enhancements for date management. Similar date filtering as in AlineaSol reports (only one filter supported here though). Supports natural and fiscal years.
 * [Calendar Map - see meetings and map routes](https://www.sugaroutfitters.com/addons/calendar-map) on SugarOutfitters.com
 * [Key Executive Data - database of millions of business contacts](https://www.sugaroutfitters.com/addons/keyexecdata) on SugarOutfitters.com 
 * [Sales Quotas - define and report on sales quotas](https://www.sugaroutfitters.com/addons/sales-quotas) on SugarOutfitters.com 
 * [Social2Sugar - LinkedIn Extension](https://www.sugaroutfitters.com/addons/linkedin-connector-for-sugarcrm-and-suitecrm) on SugarOutfitters.com 
 * [SugarTilkee - bringing Tilkee and SugarCRM together](https://github.com/timtilkee/tilkee-sugarcrm) - Tilkee is a simple SAAS tool used by sales teams to raise their closing rate, by tracking business proposal and forecast sales.
-
 
 ## Security
 * [Login Tracker - track how often users are logging in](https://www.sugaroutfitters.com/addons/suitecrm-sugarcrm-login-tracker) on SugarOutfitters.com 
@@ -332,6 +335,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Salesforce Theme for SugarCRM CE](http://www.youaddon.com/portfolio/detail/6/Sugar-CRM-Salesforce-Theme-for-CE) on YouAddOn.com. 
 * [Caro Theme for SugarCRM CE](http://www.youaddon.com/portfolio/detail/28/the-new-sugar-crm-caro-theme-for-ce) on YouAddOn.com.
 * [Dynamic Login Screen - personalized login page](https://www.sugaroutfitters.com/addons/sugarcrm-dynamic-login-screen) on SugarOutfitters.com
+* [AlineaSol Blue Theme](https://alineasolutions.com/index.php/downloads/alineasol-bluetheme.html) AlineaSol Blue Theme is a SugarCRM extension that provides a more "professional" look and feel to Sugar CRM CE.
 
 ## Training
 
@@ -342,7 +346,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Workflow
 * [Advanced Workflows](https://github.com/gcoop-libre/sugarcrm_advanced_workflows) This workflow engine is inspired by Sebastian Bergman "Design and Implementation of Workflow Engine" paper.
-* [AlineaSol Work Flow Manager](https://www.alineasol.com/en/sugarapps/wfm) - AlineaSol Work Flow Manager provides a GUI to  set-up automated Work Flow Processes within SugarCRM. This module targets power users.
+* [AlineaSol Work Flow Manager](https://alineasolutions.com/index.php/products/alineasol-workflow-manager-enterprise.html) - AlineaSol Work Flow Manager provides a GUI to  set-up automated Work Flow Processes within SugarCRM. This module targets power users.
 * [Escalation by ISFGroup.cz](http://www.isfgroup.cz/en/sugarcrm-modules/escalation) - Reminds you what you don't want forget. Allows you to set notification for both user and chief when any status is not changed.
 * [Process Manager Enterprise - automate your business processes](https://www.sugaroutfitters.com/addons/process-manager-enterprise) on SugarOutfitters.com 
 * [Project Task Notifications - get notified when assigned a project task](https://www.sugaroutfitters.com/addons/email-notification-enabled-for-project-task) on SugarOutfitters.com 
