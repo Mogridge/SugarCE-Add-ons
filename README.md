@@ -134,6 +134,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Proximity Search - map records within a given radius](https://www.sugaroutfitters.com/addons/proximity-search-for-sugar) on SugarOutfitters.com
 * [Calendar Map - see meetings and map routes](https://www.sugaroutfitters.com/addons/calendar-map) on SugarOutfitters.com
 * [Gantt Chart Ninja - easily create and update project plans just like you do in Microsoft Project](https://www.sugaroutfitters.com/addons/gantt-chart-ninja) on SugarOutfitters.com
+* [Dashboard Copy Manager - deploy dashboards to users, groups, or roles](https://www.sugaroutfitters.com/addons/dashboard-deployer) on SugarOutfitters.com
 
 
 ## Document Creation & Management
@@ -198,6 +199,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Open Exchange Rates library](http://github.com/jcsmorais/open-exchange-rates-lib-for-sugarcrm) - Package built to ease the pain of integrating the Open Exchange Rates library, a PHP abstraction for the services provided by Open Exchange Rates: a real-time exchange rates API for developers, in SugarCRM projects.
 * [SendSMS - Communicate better and faster](https://www.sugaroutfitters.com/addons/sendsms) on SugarOutfitters.com 
 * [Social2Sugar - LinkedIn Extension](https://www.sugaroutfitters.com/addons/linkedin-connector-for-sugarcrm-and-suitecrm) on SugarOutfitters.com 
+* [Enjay LimeBerry - LinkedIn Extension for SugarCRM](https://www.sugaroutfitters.com/addons/sugar-linkedin-integration) on SugarOutfitters.com 
 * [SugarChimp - bringing MailChimp and SugarCRM together](https://www.sugaroutfitters.com/addons/SugarChimp) on SugarOutfitters.com
 * [SugarCRM RubyGem](https://github.com/chicks/sugarcrm) - A ruby based REST Client for SugarCRM.
 * [Yathit InboxCRM: SugarCRM for Gmail](https://www.sugaroutfitters.com/addons/yathit-crmininbox-sugarcrm-for-gmail) on SugarOutfitters.com. Chrome extension to View/Create/Edit SugarCRM records, use  template in Gmail, track email and enhance with social media information.
@@ -311,6 +313,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Audit Tasks - add the ability to audit the tasks module](https://www.sugaroutfitters.com/addons/audit-tasks) on SugarOutfitters.com
 * [SQL Query - query the db right from Sugar](https://www.sugaroutfitters.com/addons/SQLQuery) on SugarOutfitters.com
 * [Maintenance Mode Module - turn off access to SugarCRM temporarily while you upgrade your servers](https://www.sugaroutfitters.com/addons/maintenance-mode-module) on SugarOutfitters.com
+* [Dashboard Copy Manager - deploy dashboards to users, groups, or roles](https://www.sugaroutfitters.com/addons/dashboard-deployer) on SugarOutfitters.com
 
 ## Task Management
 * [Gantt Chart Ninja - easily create and update project plans just like you do in Microsoft Project](https://www.sugaroutfitters.com/addons/gantt-chart-ninja) on SugarOutfitters.com
