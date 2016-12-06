@@ -291,6 +291,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Login Tracker - track how often users are logging in](https://www.sugaroutfitters.com/addons/suitecrm-sugarcrm-login-tracker) on SugarOutfitters.com 
 * [Permission Org Chart for SugarCRM](http://www.youaddon.com/portfolio/detail/29/permission-org-chart-for-sugar-crm) on YouAddOn.com
 * [SecuritySuite - Teams for SugarCRM CE](https://www.sugaroutfitters.com/addons/securitysuite) on SugarOutfitters.com 
+* [Two-Factor Authentication - OpenOTP strong authentication for SugarCRM](http://www.rcdevs.com/downloads/Integration+Plugins/) on rcdevs.com 
 
 ## Social
 * [Social2Sugar - LinkedIn Extension](https://www.sugaroutfitters.com/addons/linkedin-connector-for-sugarcrm-and-suitecrm) on SugarOutfitters.com 
