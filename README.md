@@ -42,6 +42,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 - [Language Packs](#language-packs)
 - [Lead Management](#lead-management)
 - [List Management](#list-management)
+- [Marketing Automation](#marketing-automation)
 - [Migration](#migration)
 - [Mobile](#mobile)
 - [Opportunity Management](#opportunity-management)
@@ -165,6 +166,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Implicit FrontEnd - Bringing CRM to your Outlook inbox](https://www.sugaroutfitters.com/addons/implicit-frontend) on SugarOutfitters.com 
 
 ## Email Marketing
+* [INBOX25 - Marketing Automation Made Specifically for SugarCRM](https://www.sugaroutfitters.com/addons/inbox25) on SugarOutfitters.com
 * [SugarChimp - bringing MailChimp and SugarCRM together](https://www.sugaroutfitters.com/addons/SugarChimp) on SugarOutfitters.com 
 
 ## Expense Controls
@@ -229,6 +231,10 @@ This is your repository! Everyone is welcome to be involved by creating listings
 ## List Management
 * [Quick2List - self maintaining target lists](https://www.sugaroutfitters.com/addons/quick2list-sugarcrm-dynamic-target-list) on SugarOutfitters.com 
 * [Advanced Marketing Lists](https://www.sugaroutfitters.com/addons/advanced-marketing-lists) on SugarOutfitters.com. Advanced Marketing Lists helps organizations to meet the needs of creating custom Target Lists and keep them updated regularly with automated tasks.
+
+## Marketing Automation
+* [INBOX25 - Marketing Automation Made Specifically for SugarCRM](https://www.sugaroutfitters.com/addons/inbox25) on SugarOutfitters.com
+* [Marketo Connector - automatic lead conversion & more](https://www.sugaroutfitters.com/addons/marketo-connector) on SugarOutfitters.com
 
 ## Migration
 
