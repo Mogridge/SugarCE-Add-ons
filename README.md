@@ -234,6 +234,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Marketing Automation
 * [INBOX25 - Marketing Automation Made Specifically for SugarCRM](https://www.sugaroutfitters.com/addons/inbox25) on SugarOutfitters.com
+* [Marketo Connector - automatic lead conversion & more](https://www.sugaroutfitters.com/addons/marketo-connector) on SugarOutfitters.com
 
 ## Migration
 
