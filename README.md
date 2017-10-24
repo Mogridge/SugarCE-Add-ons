@@ -67,9 +67,10 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Account Org Chart - visualize account hierarchies](https://www.sugaroutfitters.com/addons/loaded-basic-account-organization-chart) on SugarOutfitters.com 
 * [Accounts Global View - complete account view](https://www.sugaroutfitters.com/addons/accounts-global-view) on SugarOutfitters.com 
 * [AlineaSol Publish Home Page](https://alineasolutions.com/index.php/downloads/alineasol-publish-home-page-community.html) - AlineaSol Publish Home Page enhances the homepage of SugarCRM CE, supporting mult-tab dashboards, and role specific home pages.
-* [Business Accounts & Partners - keep your vendors separate](https://www.sugaroutfitters.com/addons/business-accounts-and-partners) on SugarOutfitters.com 
-* [InsideView for Sales] (https://github.com/insideviewdev/sugarcrm) - InsideView Infuses SugarCRM with CRM Intelligence™ - Be Relevant. Sell Smarter. Grow Faster.
 * [BaseContactAdd - Faster data entry for accounts](https://www.sugaroutfitters.com/addons/basecontactadd) on SugarOutfitters.com
+* [Business Accounts & Partners - keep your vendors separate](https://www.sugaroutfitters.com/addons/business-accounts-and-partners) on SugarOutfitters.com 
+* [CRM Social Collaboration Ninja - have conversations on records](https://www.sugaroutfitters.com/addons/crm-social-collaboration-ninja) on SugarOutfitters.com
+* [InsideView for Sales] (https://github.com/insideviewdev/sugarcrm) - InsideView Infuses SugarCRM with CRM Intelligence™ - Be Relevant. Sell Smarter. Grow Faster.
 * [UK Companies House Importer](https://www.sugaroutfitters.com/addons/companies-house-importer) on SugarOutfitters.com
 
 ## Backup and Recovery
@@ -104,6 +105,8 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Communication
 * [AlineaSol Chat](https://alineasolutions.com/index.php/downloads/alineasol-chat-community.html) - AlineaSol Chat is a module that supports chats within the CRM. It allows for both  internal (CRM users) and external chats (initiated from company Portal). 
+* [CRM Social Collaboration Ninja - have conversations on records](https://www.sugaroutfitters.com/addons/crm-social-collaboration-ninja) on SugarOutfitters.com
+* [Live Helper Chat](https://www.sugaroutfitters.com/addons/live-helper-chat-integration) on SugarOutfitters.com
 
 ## Contact Management
 * [InsideView for Sales] (https://github.com/insideviewdev/sugarcrm) - InsideView Infuses SugarCRM with CRM Intelligence™ - Be Relevant. Sell Smarter. Grow Faster.
@@ -137,9 +140,14 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Calendar Map - see meetings and map routes](https://www.sugaroutfitters.com/addons/calendar-map) on SugarOutfitters.com
 * [Gantt Chart Ninja - easily create and update project plans just like you do in Microsoft Project](https://www.sugaroutfitters.com/addons/gantt-chart-ninja) on SugarOutfitters.com
 * [Dashboard Copy Manager - deploy dashboards to users, groups, or roles](https://www.sugaroutfitters.com/addons/dashboard-deployer) on SugarOutfitters.com
-
+* [Shipcloud.io - Generate & Print Shipping Labels](https://www.sugaroutfitters.com/addons/shipcloud-connector-suitecrm) on SugarOutfitters.com
+* [CRM Social Collaboration Ninja - have conversations on records](https://www.sugaroutfitters.com/addons/crm-social-collaboration-ninja) on SugarOutfitters.com
+* [Google Maps - find and map your customers](https://www.sugaroutfitters.com/addons/google-maps) on SugarOutfitters.com
+* [Timesheet Ninja Enterprise - popup timer, reporting, and more](https://www.sugaroutfitters.com/addons/timesheet-ninja-enterprise) on SugarOutfitters.com
 
 ## Document Creation & Management
+* [Alfresco - professional document management](https://www.sugaroutfitters.com/addons/alfresco) on SugarOutfitters.com
+* [Dashdrop - The natural way to use Dropbox with Sugar](https://www.sugaroutfitters.com/addons/dashdrop-lite) on SugarOutfitters.com
 * [GroupDocs.Viewer](http://groupdocs.com/marketplace/plugins/viewer/sugarcrm) - This plugin for SugarCRM can be used to embed GroupDocs’ high-fidelity online document viewer, GroupDocs Viewer, along with selected documents to your SugarCRM webpages.
 * [GroupDocs.Assembly](http://groupdocs.com/marketplace/plugins/assembly/sugarcrm) - This plugin lets you embed documents along with GroupDocs’ document assembly app on SugarCRM pages.
 * [GroupDocs.Annotation](http://groupdocs.com/marketplace/plugins/annotation/sugarcrm) - This plugin lets you embed your preferred documents with GroupDocs’ document annotator on SugarCRM pages.
@@ -154,6 +162,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Mail Merge Reports](https://www.sugaroutfitters.com/addons/mail-merge-reports) on SugarOutfitters.com Create documents in docx, xlsx (MS Office Word and Excel), odt, ods (LibreOffice and OpenOffice) and pdf format without MS Office or others plugins installed from any module and subpanel using templates.
 * [SugarPrint - export list, detail, and calendar views](https://www.sugaroutfitters.com/addons/sugarprint) on SugarOutfitters.com 
 * [Google sync module - Sync Calendar & Contacts between Google & Sugar](http://www.youaddon.com/portfolio/detail/22/Google-sync-module-for-SugarCRM-CE) - on YouAddOn.com.
+* [Multi File Upload with Preview](https://www.sugaroutfitters.com/addons/documentdatatype) on SugarOutfitters.com
 
 ## Electronic Signatures
 * [Drawing & Signature Field - sign receipts or draw up a mockup](https://www.sugaroutfitters.com/addons/drawing-field-module) on SugarOutfitters.com 
@@ -165,6 +174,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Quick2Email Mass Email - mass send personalized emails](https://www.sugaroutfitters.com/addons/quick2email-sugarcrm-email-tool) on SugarOutfitters.com 
 * [Sugar Email Archiver by ISFGroup.cz](http://www.isfgroup.cz/en/sugarcrm-modules/isfgroup-email-archiver) - Automatic email archiving to Leads, Contacts and Accounts.
 * [Implicit FrontEnd - Bringing CRM to your Outlook inbox](https://www.sugaroutfitters.com/addons/implicit-frontend) on SugarOutfitters.com 
+* [Exchange and Sugar Sever-side Sync](https://www.sugaroutfitters.com/addons/aesync) on SugarOutfitters.com
 
 ## Email Marketing
 * [INBOX25 - Marketing Automation Made Specifically for SugarCRM](https://www.sugaroutfitters.com/addons/inbox25) on SugarOutfitters.com
@@ -210,8 +220,14 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Groupon - the popular deals and coupons platform](https://www.sugaroutfitters.com/addons/groupon-orders-to-crm) on SugarOutfitters.com
 * [eBay - sync your eBay orders automatically](https://www.sugaroutfitters.com/addons/ebay-orders-to-sugarcrm-suitecrm) on SugarOutfitters.com
 * [UK Companies House Importer](https://www.sugaroutfitters.com/addons/companies-house-importer) on SugarOutfitters.com
+* [Exchange and Sugar Sever-side Sync](https://www.sugaroutfitters.com/addons/aesync) on SugarOutfitters.com
+* [Dashdrop - The natural way to use Dropbox with Sugar](https://www.sugaroutfitters.com/addons/dashdrop-lite) on SugarOutfitters.com
+* [Alfresco - professional document management](https://www.sugaroutfitters.com/addons/alfresco) on SugarOutfitters.com
+* [Live Helper Chat](https://www.sugaroutfitters.com/addons/live-helper-chat-integration) on SugarOutfitters.com
+* [HubSpot Connector](https://www.sugaroutfitters.com/addons/hubspot-connector) on SugarOutfitters.com
 
 ## Knowledge Management
+* [Alfresco - professional document management](https://www.sugaroutfitters.com/addons/alfresco) on SugarOutfitters.com
 
 ## Language Packs
 * [French Language Pack](https://github.com/synolia/SynoSugarCRMFrenchLanguagePack) on GitHub.com. 
@@ -229,6 +245,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [InsideView for Sales] (https://github.com/insideviewdev/sugarcrm) - InsideView Infuses SugarCRM with CRM Intelligence™ - Be Relevant. Sell Smarter. Grow Faster.
 * [WebToModule - Create lead forms for your landing pages](https://www.sugaroutfitters.com/addons/webtomodule) on SugarOutfitters.com 
 * [Scan Identical Leads - keep your data clean](https://www.sugaroutfitters.com/addons/scan-identical-leads) on SugarOutfitters.com
+* [HubSpot Connector](https://www.sugaroutfitters.com/addons/hubspot-connector) on SugarOutfitters.com
 
 ## List Management
 * [Quick2List - self maintaining target lists](https://www.sugaroutfitters.com/addons/quick2list-sugarcrm-dynamic-target-list) on SugarOutfitters.com 
@@ -247,7 +264,8 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Jet Mobile Lite](http://letrium.com/jetmobile-lite/) on Letrium.com. 
 * [Jet Mobile Pro](http://letrium.com/products/jet-mobile/) on Letrium.com. Mobile Browser Application for SugarCRM (Mobile and Tablet devices). Jet Mobile lets your mobile users view, create, and modify your existing data in SugarCRM by using a mobile device with a Web browser.
 * [SugarMob Pro - customizable mobile app for iOS/Android](https://www.sugaroutfitters.com/addons/sugarmobpro) on SugarOutfitters.com
- 
+* [Enjay Synapse Mobile - Mobile Call Center](https://www.sugaroutfitters.com/addons/enjay-synapse-mobile on SugarOutfitters.com)
+
 ## Opportunity Management
 * [SugarTilkee - bringing Tilkee and SugarCRM together](https://github.com/timtilkee/tilkee-sugarcrm) - Tilkee is a simple SAAS tool used by sales teams to raise their closing rate, by tracking business proposal and forecast sales.
 * [Oportunity Org Chart - quickly identify key stackholders](https://www.sugaroutfitters.com/addons/loaded-advanced-opportunity-organization-chart) on SugarOutfitters.com 
@@ -255,6 +273,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Kanban View - Mange your sales pipeline](https://www.sugaroutfitters.com/addons/kanban-view) on SugarOutfitters.com
 
 ## Order Management
+* [Shipcloud.io - Generate & Print Shipping Labels](https://www.sugaroutfitters.com/addons/shipcloud-connector-suitecrm) on SugarOutfitters.com
 
 ## Portal
 * [WordPress Customer Portal - Accounts, Contacts, Leads, Opps and much, much more...](https://www.sugaroutfitters.com/addons/wordpress-customer-portal-pro) on SugarOutfitters.com 
@@ -268,6 +287,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Gantt Chart Ninja - easily create and update project plans just like you do in Microsoft Project](https://www.sugaroutfitters.com/addons/gantt-chart-ninja) on SugarOutfitters.com
 * [Gantt Project Module - the project manager's visual tool](https://www.sugaroutfitters.com/addons/ganttproject) on SugarOutfitters.com
 * [Timesheets Professional - track time against CRM activities, billing clients, and measuring productivity.](https://www.sugaroutfitters.com/addons/sugarcrm-timesheets-pro) on SugarOutfitters.com
+* [Timesheet Ninja Enterprise - popup timer, reporting, and more](https://www.sugaroutfitters.com/addons/timesheet-ninja-enterprise) on SugarOutfitters.com
 
 ## Quotes and Products
 * [OpenQuotesAndContracts - quotes/contracts/products/product catalog for SugarCE](https://github.com/andriusr/OpenQuotesAndContracts) on GitHub.com.
@@ -286,15 +306,18 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [User Activities Module](https://github.com/UTAlan/Sugar-User-Activity-Module) - Installs a custom module in SugarCRM that allows you to view all Activities in a single List View.
 * [User Activity Analysis - know exactly what your employees are doing in SugarCRM](https://www.sugaroutfitters.com/addons/user-activity-analysis) on SugarOutfitters.com 
 * [Proximity Search - map records within a given radius](https://www.sugaroutfitters.com/addons/proximity-search-for-sugar) on SugarOutfitters.com
+* [Google Maps - find and map your customers](https://www.sugaroutfitters.com/addons/google-maps) on SugarOutfitters.com
 
 ## Sales Performance Optimization
 * [Address Lookup - get more accurate addresses](https://www.sugaroutfitters.com/addons/address-lookup) on SugarOutfitters.com 
 * [Calendar Map - see meetings and map routes](https://www.sugaroutfitters.com/addons/calendar-map) on SugarOutfitters.com
+* [Google Maps - find and map your customers](https://www.sugaroutfitters.com/addons/google-maps) on SugarOutfitters.com
 * [Key Executive Data - database of millions of business contacts](https://www.sugaroutfitters.com/addons/keyexecdata) on SugarOutfitters.com 
 * [SalesPipe - sales pipe management](https://www.sugaroutfitters.com/addons/salespipe) on SugarOutfitters.com 
 * [Sales Quotas - define and report on sales quotas](https://www.sugaroutfitters.com/addons/sales-quotas) on SugarOutfitters.com 
 * [Social2Sugar - LinkedIn Extension](https://www.sugaroutfitters.com/addons/linkedin-connector-for-sugarcrm-and-suitecrm) on SugarOutfitters.com 
 * [SugarTilkee - bringing Tilkee and SugarCRM together](https://github.com/timtilkee/tilkee-sugarcrm) - Tilkee is a simple SAAS tool used by sales teams to raise their closing rate, by tracking business proposal and forecast sales.
+* [HubSpot Connector](https://www.sugaroutfitters.com/addons/hubspot-connector) on SugarOutfitters.com
 
 ## Security
 * [CRM Defender - protect against brute force attacks](https://www.sugaroutfitters.com/addons/crm_defender) on SugarOutfitters.com 
@@ -327,10 +350,13 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [SQL Query - query the db right from Sugar](https://www.sugaroutfitters.com/addons/SQLQuery) on SugarOutfitters.com
 * [Maintenance Mode Module - turn off access to SugarCRM temporarily while you upgrade your servers](https://www.sugaroutfitters.com/addons/maintenance-mode-module) on SugarOutfitters.com
 * [Dashboard Copy Manager - deploy dashboards to users, groups, or roles](https://www.sugaroutfitters.com/addons/dashboard-deployer) on SugarOutfitters.com
+* [SuperUser Access - give users access to some admin modules](https://www.sugaroutfitters.com/addons/superuser-access) on SugarOutfitters.com
+* [Multi File Upload with Preview](https://www.sugaroutfitters.com/addons/documentdatatype) on SugarOutfitters.com
 
 ## Task Management
 * [Gantt Chart Ninja - easily create and update project plans just like you do in Microsoft Project](https://www.sugaroutfitters.com/addons/gantt-chart-ninja) on SugarOutfitters.com
 * [Gantt Project Module - the project manager's visual tool](https://www.sugaroutfitters.com/addons/ganttproject) on SugarOutfitters.com
+* [Timesheet Ninja Enterprise - popup timer, reporting, and more](https://www.sugaroutfitters.com/addons/timesheet-ninja-enterprise) on SugarOutfitters.com
 
 ## Telephony Integration
 * [Callinize](http://www.callinize.com/) SaaS service that connects over 100 phone systems with SugarCRM. Callinize provides Click-to-Dial, Call PopUp, Call Logs, Call Analytics, Natural Language Processor, Task Creation, and more. 
@@ -352,6 +378,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Caro Theme for SugarCRM CE](http://www.youaddon.com/portfolio/detail/28/the-new-sugar-crm-caro-theme-for-ce) on YouAddOn.com.
 * [Dynamic Login Screen - personalized login page](https://www.sugaroutfitters.com/addons/sugarcrm-dynamic-login-screen) on SugarOutfitters.com
 * [AlineaSol Blue Theme](https://alineasolutions.com/index.php/downloads/alineasol-bluetheme.html) AlineaSol Blue Theme is a SugarCRM extension that provides a more "professional" look and feel to Sugar CRM CE.
+* [Sugar-Project Theme](https://www.sugaroutfitters.com/addons/sugarproject-theme) on SugarOutfitters.com
 
 ## Training
 * [SugarCRM Support & Consulting - training package](https://www.sugaroutfitters.com/addons/crm-support-consulting) on SugarOutfitters.com 
