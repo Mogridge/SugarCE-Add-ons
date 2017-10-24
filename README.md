@@ -221,6 +221,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Italian Language Pack] (https://github.com/Opensymbol/SugarCRM-Language-Pack) on GitHub.com
 * [Spanish Language Pack] (https://github.com/leonardobarrientosc/sugarcrm-spanish-language-pack) on GitHub.com
 * [Galician Language Pack] (https://github.com/msuarezgomez/sugarcrm-galician-language-pack) on GitHub.com
+* [Portuguese Language Pack] (https://github.com/eniohandy/SugarCRM/) on GitHub.com
 
 ## Lead Management
 * [SugarTilkee - bringing Tilkee and SugarCRM together](https://github.com/timtilkee/tilkee-sugarcrm) - Tilkee is a simple SAAS tool used by sales teams to raise their closing rate, by tracking business proposal and forecast sales.
@@ -301,6 +302,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Password Management Ninja - organize credentials](https://www.sugaroutfitters.com/addons/password-management-ninja) on SugarOutfitters.com 
 * [Permission Org Chart for SugarCRM](http://www.youaddon.com/portfolio/detail/29/permission-org-chart-for-sugar-crm) on YouAddOn.com
 * [SecuritySuite - Teams for SugarCRM CE](https://www.sugaroutfitters.com/addons/securitysuite) on SugarOutfitters.com 
+* [Two-Factor Authentication - OpenOTP strong authentication for SugarCRM](http://www.rcdevs.com/downloads/Integration+Plugins/) on rcdevs.com 
 
 ## Social
 * [Groupon - the popular deals and coupons platform](https://www.sugaroutfitters.com/addons/groupon-orders-to-crm) on SugarOutfitters.com
