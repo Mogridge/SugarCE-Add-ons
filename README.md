@@ -92,6 +92,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Case Management
 * [Freshdesk Connector - support portal and more](https://www.sugaroutfitters.com/addons/freshdesk-sugar-connector) on SugarOutfitters.com
+* [Zendesk - a better way to support your customers](https://www.sugaroutfitters.com/addons/zendesk-sugarcrm) on SugarOutfitters.com
 
 ## CE Code and Zips
 * [Source code for CE](https://github.com/sugarcrm/sugarcrm_dev) on git .
@@ -107,6 +108,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [AlineaSol Chat](https://alineasolutions.com/index.php/downloads/alineasol-chat-community.html) - AlineaSol Chat is a module that supports chats within the CRM. It allows for both  internal (CRM users) and external chats (initiated from company Portal). 
 * [CRM Social Collaboration Ninja - have conversations on records](https://www.sugaroutfitters.com/addons/crm-social-collaboration-ninja) on SugarOutfitters.com
 * [Live Helper Chat](https://www.sugaroutfitters.com/addons/live-helper-chat-integration) on SugarOutfitters.com
+* [Intercom - Complete customer messaging platform](https://www.sugaroutfitters.com/addons/intercom-sugarcrm-customer-messaging-platform) on SugarOutfitters.com
 
 ## Contact Management
 * [InsideView for Sales] (https://github.com/insideviewdev/sugarcrm) - InsideView Infuses SugarCRM with CRM Intelligence™ - Be Relevant. Sell Smarter. Grow Faster.
@@ -225,6 +227,8 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Alfresco - professional document management](https://www.sugaroutfitters.com/addons/alfresco) on SugarOutfitters.com
 * [Live Helper Chat](https://www.sugaroutfitters.com/addons/live-helper-chat-integration) on SugarOutfitters.com
 * [HubSpot Connector](https://www.sugaroutfitters.com/addons/hubspot-connector) on SugarOutfitters.com
+* [Intercom - Complete customer messaging platform](https://www.sugaroutfitters.com/addons/intercom-sugarcrm-customer-messaging-platform) on SugarOutfitters.com
+* [Zendesk - a better way to support your customers](https://www.sugaroutfitters.com/addons/zendesk-sugarcrm) on SugarOutfitters.com
 
 ## Knowledge Management
 * [Alfresco - professional document management](https://www.sugaroutfitters.com/addons/alfresco) on SugarOutfitters.com
@@ -253,9 +257,12 @@ This is your repository! Everyone is welcome to be involved by creating listings
 
 ## Marketing Automation
 * [INBOX25 - Marketing Automation Made Specifically for SugarCRM](https://www.sugaroutfitters.com/addons/inbox25) on SugarOutfitters.com
+* [Intercom - Complete customer messaging platform](https://www.sugaroutfitters.com/addons/intercom-sugarcrm-customer-messaging-platform) on SugarOutfitters.com
 * [Marketo Connector - automatic lead conversion & more](https://www.sugaroutfitters.com/addons/marketo-connector) on SugarOutfitters.com
+* [SugarChimp - bringing MailChimp and SugarCRM together](https://www.sugaroutfitters.com/addons/SugarChimp) on SugarOutfitters.com 
 
 ## Migration
+* [Data2CRM - migrate databases, CRMs, files, CSVs, etc](https://www.sugaroutfitters.com/addons/automated-sugarcrm-and-suitecrm-migration-by-data2crm) on SugarOutfitters.com
 
 ## Mobile
 * [QuickCRM Basic](https://github.com/QuickCRM/QuickCRM-Basic/releases) on GitHub.
@@ -281,6 +288,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [Customer Support Portal - cases, bugs, leads and more](https://www.sugaroutfitters.com/addons/customer-support-portal) on SugarOutfitters.com
 * [Freshdesk Connector - support portal and more](https://www.sugaroutfitters.com/addons/freshdesk-sugar-connector) on SugarOutfitters.com
 * [Customer Portal for SugarCRM CE](http://www.youaddon.com/portfolio/detail/31/customer-portal-for-sugarcrm-ce) on YouAddOn.com
+* [Zendesk support portal](https://www.sugaroutfitters.com/addons/zendesk-sugarcrm) on SugarOutfitters.com
 
 ## Project Management
 * [AlineaSol Project Management](https://alineasolutions.com/index.php/products/alineasol-project-management-gantt-enterprise.html) - AlineaSol Project Management offer a GUI to create GANTTs and manage projects. Can be combined with AlineaSol Reports and WFM for sophisticated applications.
